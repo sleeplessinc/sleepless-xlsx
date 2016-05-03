@@ -1,0 +1,14 @@
+{
+  "name": "sleepless-xls",
+  "version": "1.0.0",
+  "description": "Makes an xls file from raw data",
+  "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/sleeplessinc/sleepless-xls/raw/master/LICENSE"
+  },
+  "repository": "git://github.com/sleeplessinc/sleepless-xls.git",
+  "dependencies": {
+    "xlsx": "^0.8.0"
+  }
+}
