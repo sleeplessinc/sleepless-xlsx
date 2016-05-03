@@ -80,6 +80,7 @@ function save(data, file, name) {
 	];
 	ws['!cols'] = wscols;		// column widths */
 
+	console.log(JSON.stringify(wb));
 	XLSX.writeFile(wb, file);
 }
 
