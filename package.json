@@ -1,13 +1,13 @@
 {
-  "name": "sleepless-xls",
+  "name": "sleepless-xlsx",
   "version": "1.0.0",
-  "description": "Makes an xls file from raw data",
+  "description": "Makes an xlsx file from raw data",
   "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/sleeplessinc/sleepless-xls/raw/master/LICENSE"
+    "url": "https://github.com/sleeplessinc/sleepless-xlsx/raw/master/LICENSE"
   },
-  "repository": "git://github.com/sleeplessinc/sleepless-xls.git",
+  "repository": "git://github.com/sleeplessinc/sleepless-xlsx.git",
   "dependencies": {
     "xlsx": "^0.8.0"
   }
