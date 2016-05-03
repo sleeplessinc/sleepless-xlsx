@@ -1,9 +1,8 @@
 
 xlsx = require("./index.js");
 
-
 data = [
-	[ "Size", "qty", "price" ],
+	[ "Size", "Qty", "Price" ],
 	[ "Small", 1, 1.99 ],
 	[ "Medium", 2, 19.99 ],
 	[ "Large", 3, 199.99 ],
