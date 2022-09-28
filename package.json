@@ -1,6 +1,6 @@
 {
   "name": "sleepless-xlsx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Makes an xlsx file from raw data",
   "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
   "license": {
