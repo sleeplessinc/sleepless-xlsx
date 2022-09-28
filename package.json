@@ -9,6 +9,6 @@
   },
   "repository": "git://github.com/sleeplessinc/sleepless-xlsx.git",
   "dependencies": {
-    "xlsx": "^0.8.0"
+    "xlsx": "^0.18.5"
   }
 }
